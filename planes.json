@@ -1,0 +1,77 @@
+{
+  "planes":[
+    {
+      "flight_number": "FZ023",
+      "origin": "Amsterdam", 
+      "time":"14:25", 
+      "airline_logo":"https://api.bac.bh/api/fids/GF.png",
+      "airline": "Gulf Air", 
+      "status": "On time",
+      "flight-status": "Arrivals",
+      "longitude":"18.027754",
+      "latitude":"48.077974",
+      "direction": "130"
+    }, 
+    {
+      "flight_number": "",
+      "origin": "Cairo", 
+      "time":"8:30", 
+      "airline_logo":"https://api.bac.bh/api/fids/MS.png",
+      "airline": "EgyptAir", 
+      "status": "On time",
+      "flight-status": "Arrivals",
+      "longitude":"30.040196",
+      "latitude":"31.319740",
+      "direction": "150"
+    },
+    {
+      "flight_number": "GF2168",
+      "origin": "Jakarta",
+      "time":"19:00",
+      "airline_logo":"https://api.bac.bh/api/fids/GF.png",
+      "airline": "Gulf Air", 
+      "status":"on time",
+      "flight-status": "Departures",
+      "longitude":"12.719187",
+      "latitude":"78.173932",
+      "direction": "140"
+    },
+    {
+      "flight_number": "GF2168",
+      "origin": "Jakarta",
+      "time":"19:00",
+      "airline_logo":"https://api.bac.bh/api/fids/GF.png",
+      "airline": "Gulf Air", 
+      "status":"on time",
+      "flight-status": "Departures",
+      "longitude":"12.719187",
+      "latitude":"78.173932",
+      "direction": "140"
+    },
+    {
+      "flight_number": "TK776",
+      "origin": "Istambul",
+      "time":"13:00",
+      "airline_logo":"",
+      "airline": "https://api.bac.bh/api/fids/TK.png", 
+      "status":"Early",
+      "flight-status": "Departures",
+      "longitude":"33.939178",
+      "latitude":"41.995223",
+      "direction": "320"
+    }, 
+    {
+      "flight_number": "GF2164",
+      "origin": "Paris",
+      "time":"5:00",
+      "airline_logo":"https://api.bac.bh/api/fids/GF.png",
+      "airline": "Gulf Air", 
+      "status":"On time",
+      "flight-status": "Departures",
+      "longitude":"27.003144",
+      "latitude":"46.651358",
+      "direction": "310"
+    }
+  ]
+}
+
