@@ -1,3 +1,4 @@
+{
   "planes":[
     {
       "flight_number": "FZ023",
@@ -47,7 +48,7 @@
       "latitude":"78.173932",
       "direction": "140"
     },
-        {
+    {
       "flight_number": "TK776",
       "origin": "Istambul",
       "time":"13:00",
@@ -59,7 +60,6 @@
       "latitude":"41.995223",
       "direction": "320"
     },
-    {
     {
       "flight_number": "GF2164",
       "origin": "Paris",
