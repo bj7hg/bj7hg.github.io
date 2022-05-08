@@ -23,18 +23,6 @@
       "longitude":"30.040196",
       "latitude":"31.319740",
       "direction": "150"
-    },
-    {
-      "flight_number": "TK776",
-      "origin": "Istambul",
-      "time":"13:00",
-      "airline_logo":"",
-      "airline": "https://api.bac.bh/api/fids/TK.png", 
-      "status":"Early",
-      "flight-status": "Departures",
-      "longitude":"33.939178",
-      "latitude":"41.995223",
-      "direction": "320"
     }, 
     {
       "flight_number": "GF2164",
