@@ -25,30 +25,6 @@
       "direction": "150"
     },
     {
-      "flight_number": "GF2168",
-      "origin": "Jakarta",
-      "time":"19:00",
-      "airline_logo":"https://api.bac.bh/api/fids/GF.png",
-      "airline": "Gulf Air", 
-      "status":"on time",
-      "flight-status": "Departures",
-      "longitude":"12.719187",
-      "latitude":"78.173932",
-      "direction": "140"
-    },
-    {
-      "flight_number": "GF2168",
-      "origin": "Jakarta",
-      "time":"19:00",
-      "airline_logo":"https://api.bac.bh/api/fids/GF.png",
-      "airline": "Gulf Air", 
-      "status":"on time",
-      "flight-status": "Departures",
-      "longitude":"12.719187",
-      "latitude":"78.173932",
-      "direction": "140"
-    },
-    {
       "flight_number": "TK776",
       "origin": "Istambul",
       "time":"13:00",
