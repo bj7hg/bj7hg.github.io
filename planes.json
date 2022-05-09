@@ -44,8 +44,8 @@
       "airline": "Gulf Air", 
       "status":"On time",
       "flight-status": "Departures",
-      "longitude":"6.379803",
-      "latitude":"80.649664",
+      "longitude":"80.649664",
+      "latitude":"6.379803",
       "direction": "120"
     },
     {
