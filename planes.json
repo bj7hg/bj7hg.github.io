@@ -52,8 +52,8 @@
       "flight_number": "TK776",
       "origin": "Istambul",
       "time":"13:00",
-      "airline_logo":"",
-      "airline": "https://api.bac.bh/api/fids/TK.png", 
+      "airline_logo":"https://api.bac.bh/api/fids/TK.png",
+      "airline": "Turkish Airlines", 
       "status":"On time",
       "flight-status": "Departures",
       "longitude":"47.888513",
@@ -64,13 +64,25 @@
       "flight_number": "RS4592",
       "origin": "Oslo", 
       "time": "18:10", 
-      "airline_logo":"https://api.bac.bh/api/fids/GF.png",
+      "airline_logo":"https://api.bac.bh/api/fids/TK.png",
       "airline": "Turkish Airlines", 
       "status": "On time",
       "flight-status": "Arrivals",
       "longitude":"25.363357",
       "latitude":"50.737475",
       "direction": "150"
-    }
+    },
+    {
+    "flight_number": "GF2168",
+    "origin": "Jakarta",
+    "time":"19:00",
+    "airline_logo":"https://api.bac.bh/api/fids/GF.png",
+    "airline": "Gulf Air", 
+    "status":"On time",
+    "flight-status": "Departures",
+    "longitude":"80.649664",
+    "latitude":"6.379803",
+    "direction": "120"
+  }
   ]
 }
