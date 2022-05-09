@@ -13,7 +13,7 @@
       "direction": "130"
     }, 
     {
-      "flight_number": "",
+      "flight_number": "CS4308",
       "origin": "Cairo", 
       "time":"8:30", 
       "airline_logo":"https://api.bac.bh/api/fids/MS.png",
@@ -56,8 +56,8 @@
       "airline": "https://api.bac.bh/api/fids/TK.png", 
       "status":"On time",
       "flight-status": "Departures",
-      "longitude":"33.939178",
-      "latitude":"41.995223",
+      "longitude":"47.888513",
+      "latitude":"29.256704",
       "direction": "320"
     },
     {
@@ -68,8 +68,8 @@
       "airline": "Turkish Airlines", 
       "status": "On time",
       "flight-status": "Arrivals",
-      "longitude":"18.027754",
-      "latitude":"48.077974",
+      "longitude":"25.363357",
+      "latitude":"50.737475",
       "direction": "150"
     }
   ]
