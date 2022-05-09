@@ -22,7 +22,7 @@
       "flight-status": "Arrivals",
       "longitude":"30.040196",
       "latitude":"31.319740",
-      "direction": "150"
+      "direction": "110"
     }, 
     {
       "flight_number": "GF2164",
@@ -32,9 +32,9 @@
       "airline": "Gulf Air", 
       "status":"On time",
       "flight-status": "Departures",
-      "longitude":"27.003144",
-      "latitude":"46.651358",
-      "direction": "310"
+      "longitude":"14.230266",
+      "latitude":"34.725230",
+      "direction": "320"
     },
     {
       "flight_number": "GF2168",
@@ -44,9 +44,9 @@
       "airline": "Gulf Air", 
       "status":"On time",
       "flight-status": "Departures",
-      "longitude":"12.719187",
-      "latitude":"78.173932",
-      "direction": "140"
+      "longitude":"6.379803",
+      "latitude":"80.649664",
+      "direction": "120"
     },
     {
       "flight_number": "TK776",
@@ -54,11 +54,23 @@
       "time":"13:00",
       "airline_logo":"",
       "airline": "https://api.bac.bh/api/fids/TK.png", 
-      "status":"Early",
+      "status":"On time",
       "flight-status": "Departures",
       "longitude":"33.939178",
       "latitude":"41.995223",
       "direction": "320"
+    },
+    {
+      "flight_number": "RS4592",
+      "origin": "Oslo", 
+      "time": "18:10", 
+      "airline_logo":"https://api.bac.bh/api/fids/GF.png",
+      "airline": "Turkish Airlines", 
+      "status": "On time",
+      "flight-status": "Arrivals",
+      "longitude":"18.027754",
+      "latitude":"48.077974",
+      "direction": "150"
     }
   ]
 }
