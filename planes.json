@@ -30,7 +30,7 @@
       "time":"5:00",
       "airline_logo":"https://api.bac.bh/api/fids/GF.png",
       "airline": "Gulf Air", 
-      "status":"On time",
+      "status":"Landed",
       "flight-status": "Departures",
       "longitude":"14.230266",
       "latitude":"34.725230",
